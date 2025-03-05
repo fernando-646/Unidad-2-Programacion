@@ -9,8 +9,5 @@ int main() {
     if (NOTA < 3.0) {
         cout << "REPROBADO" << endl;
     }
-    else {
-        cout << "APROBADO" << endl;
-    }
     return 0;
 }
